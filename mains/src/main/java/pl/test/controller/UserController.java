@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-public class UserController implements UsersApi {
+public class UserController implements io.reflectoring.api.UsersApi {
     @Override
     public UsersApiDelegate getDelegate() {
         return null;
