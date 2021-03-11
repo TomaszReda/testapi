@@ -3,7 +3,7 @@ package io.reflectoring.api;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.Optional;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-03-11T21:56:11.169894335+01:00[Europe/Warsaw]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-03-11T21:59:15.593187103+01:00[Europe/Warsaw]")
 
 @Controller
 @RequestMapping("${openapi.sample.base-path:/v1}")

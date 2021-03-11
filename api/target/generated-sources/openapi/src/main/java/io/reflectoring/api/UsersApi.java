@@ -21,7 +21,7 @@ import javax.validation.Valid;
 import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-03-11T21:56:11.169894335+01:00[Europe/Warsaw]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-03-11T21:59:15.593187103+01:00[Europe/Warsaw]")
 
 @Validated
 @Api(value = "users", description = "the users API")
